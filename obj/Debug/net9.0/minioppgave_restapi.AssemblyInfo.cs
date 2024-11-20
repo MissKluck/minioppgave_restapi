@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("minioppgave_restapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be6a235ce4b6c3c27db5023d6d4ce6633c4e2342")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+363959262fb1d2d49fb92683f0b758e90f5ed4c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("minioppgave_restapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("minioppgave_restapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
