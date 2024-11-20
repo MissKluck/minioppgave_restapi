@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Imagine Dragons",
+    "isGroup": true,
+    "members": "Dan Reynolds, Wayne Sermon, Ben McKee",
+    "yearStarted": 2008,
+    "genres": ["Pop rock, electropop, alternative rock"]
+  },
+  {
+    "id": 2,
+    "name": "Daft Punk",
+    "isGroup": true,
+    "members": "Thomas Bangalter & Guy-Manuel de Homem-Christo",
+    "yearStarted": 1993,
+    "genres": ["French house, electronic, dance, disco"]
+  },
+  {
+    "id": 3,
+    "name": "Taylor Swift",
+    "isGroup": false,
+    "members": null,
+    "yearStarted": 2003,
+    "genres": ["Country, pop, folk, rock"]
+  },
+  {
+    "id": 4,
+    "name": "Keane",
+    "isGroup": true,
+    "members": "Tom Chaplin, Tim Rice-Oxley, Richard Hughes, Jesse Quin",
+    "yearStarted": 1995,
+    "genres": ["alternate rock, indie, post-Britpop"]
+  },
+  {
+    "id": 5,
+    "name": "Susanne Sundfør",
+    "isGroup": false,
+    "members": null,
+    "yearStarted": 2005,
+    "genres": ["Art pop, electronica, folk, experimental pop"]
+  },
+  {
+    "id": 6,
+    "name": "Fall Out Boy",
+    "isGroup": true,
+    "members": "Patrick Stump, Pete Wentz, Joe Trohman, Andy Hurley",
+    "yearStarted": 2001,
+    "genres": ["Pop-punk, pop rock, emo, alternative rock"]
+  },
+  {
+    "id": 7,
+    "name": "Twice",
+    "isGroup": true,
+    "members": "Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung, Tzuyu",
+    "yearStarted": 2015,
+    "genres": ["K-pop, J-pop, bubblegum pop, EDM"]
+  },
+  {
+    "id": 8,
+    "name": "Shakira",
+    "isGroup": false,
+    "members": null,
+    "yearStarted": 1990,
+    "genres": ["Latin pop, pop, dance, reggaeton"]
+  },
+  {
+    "id": 9,
+    "name": "BigBang",
+    "isGroup": true,
+    "members": "G-Dragon, Daesung, Taeyang",
+    "yearStarted": 2006,
+    "genres": ["K-pop, J-pop, hip hop, dance, electronic"]
+  },
+  {
+    "id": 10,
+    "name": "MARINA",
+    "isGroup": false,
+    "members": null,
+    "yearStarted": 2005,
+    "genres": ["Electropop, synth-pop, indie pop, art pop"]
+  }
+]
