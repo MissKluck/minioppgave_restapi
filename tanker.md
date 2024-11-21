@@ -1,0 +1,4 @@
+Thoughts about how a RestAPIs work and why using models can be necessary:
+An API stands for "application programming interface" and does, as the name implies, work as an interface between a client and a database, or between two computers. It enables them to communicate with each other and exchange information in a strcutured way.
+A REST API is a specific type of API that uses what is called the REST arcitectural structure. REST(Representational State Transfer) uses HTTP requests for communication, like GET, POST, PUT and DELETE. The structure is stateless, meaning that each request sent to the API operates independently, and thus it doesn't need to store any information about the client.
+Models can be beneficial for structuring our code. Though it includes some additional boilerplate code, by seperating out different elements of the code, the API becomes easier to manage and mantain. Models also makes it easier to do troubleshooting if any errors should occur.
